@@ -1,0 +1,9 @@
+POST https://dummyapi.io/data/v1/user/create
+app-id: 67804f60e98d845c40d9447c
+Content-Type: application/json
+
+{
+    "firstName": "João",
+    "lastName": "Galvão",
+    "email": "joao@test.com"
+  }
